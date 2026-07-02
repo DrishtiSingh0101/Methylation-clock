@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Large genomic datasets
+data/
+TCGA_normal_beta_files/gdc_download_20260606_164603.003427/**/*.txt
+TCGA_tumor_beta_files/gdc_download/**/*.txt
+*.tsv
+*.csv
+*.json
+*.zip
+*.gz
+
+# Model files
+*.joblib
+*.pkl
+
+# Temporary outputs
+results/temp/
+
+# Logs
+*.log
+
+data/gdc-client
