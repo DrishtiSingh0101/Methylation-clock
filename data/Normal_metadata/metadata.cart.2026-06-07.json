@@ -1,0 +1,2362 @@
+[{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1F5-11A-43D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "e663954c-05a8-479a-a623-400c1eb5efc6", 
+      "entity_id": "a23a7522-5b45-4371-8d18-b6d68574fd6f"
+    }
+  ], 
+  "file_name": "e5e37029-fb06-4e34-b3b2-277854b8f59a.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "84e183c3-bb48-48e4-bbf0-5b9c63a4a439", 
+  "data_category": "DNA Methylation", 
+  "annotations": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1F5", 
+      "notes": "The patient had a prior thyroid cancer (~28 years prior) and a prior lung cancer (~23 years prior) to the TCGA cancer procurement. The TSS does not know if radiation or chemotherapy was given which is unacceptable for TCGA.", 
+      "submitter_id": "28963", 
+      "classification": "Notification", 
+      "entity_id": "e663954c-05a8-479a-a623-400c1eb5efc6", 
+      "created_datetime": "2015-09-08T00:00:00", 
+      "annotation_id": "319be750-b198-5924-a69f-fe0585839cbd", 
+      "entity_type": "case", 
+      "updated_datetime": "2018-08-23T16:36:27.780612-05:00", 
+      "case_id": "e663954c-05a8-479a-a623-400c1eb5efc6", 
+      "state": "released", 
+      "category": "History of unacceptable prior treatment related to a prior/other malignancy", 
+      "status": "Approved", 
+      "case_submitter_id": "TCGA-BH-A1F5"
+    }
+  ], 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:42:13.094991-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "e5e37029-fb06-4e34-b3b2-277854b8f59a", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "6c030303-032e-45b6-a95e-4ae152d18a61", 
+    "created_datetime": "2022-02-15T16:40:04.499992-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13173521, 
+  "md5sum": "617dbdc102af5797c61d0742d5fa7243", 
+  "file_id": "af5c7ee8-6981-4daf-b5a2-589c0a2bad9a", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1FB-11A-33D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "ecab16bc-28d5-4c3a-8735-3c785bd047c4", 
+      "entity_id": "cea32d63-e8f9-48c5-9ab2-5fe2df6bbd5b"
+    }
+  ], 
+  "file_name": "d65249d9-4d0c-4a47-aee2-6d7c59b6ef8b.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "fabc71e0-b73b-41a3-90db-2f129670c812", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:06:52.182259-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "d65249d9-4d0c-4a47-aee2-6d7c59b6ef8b", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "79c0eecb-bcc0-4846-a2ff-62eca579285f", 
+    "created_datetime": "2022-02-15T16:38:15.999109-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13187387, 
+  "md5sum": "ecd78470c6ea347147e6a668eb801943", 
+  "file_id": "2ad10fdc-8240-4a4c-825a-f48655f8e9ee", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1NF-11A-73D-A14H-05", 
+      "entity_type": "aliquot", 
+      "case_id": "a8b1f6e7-2bcf-460d-b1c6-1792a9801119", 
+      "entity_id": "5c886831-add6-4630-8400-053b80024cab"
+    }
+  ], 
+  "file_name": "79512f6f-1092-46d8-863c-5a9d052549b1.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "3ed29a5b-1cb9-4a77-bada-7a134afd1b15", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:56:42.861818-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "79512f6f-1092-46d8-863c-5a9d052549b1", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "e10a42b8-d84a-4536-8f86-718495c357cf", 
+    "created_datetime": "2022-02-15T16:53:44.158737-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13151074, 
+  "md5sum": "fcd79b1537aec5a7aa8b7fac3646bd12", 
+  "file_id": "520d94db-21b5-4084-99db-1b693cc9c331", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1ES-11A-33D-A138-05", 
+      "entity_type": "aliquot", 
+      "case_id": "51ccbf1b-7cae-44ba-991a-11eda8b8c404", 
+      "entity_id": "3051e54f-164b-4b01-9a33-004022480d88"
+    }
+  ], 
+  "file_name": "ad1210ef-7129-4e3a-8c17-8c14e0381920.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "85a13bed-e543-4e8e-8f02-23da8c51664e", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:32:33.669690-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "ad1210ef-7129-4e3a-8c17-8c14e0381920", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "8ae6b651-7b07-4d84-a99c-cb53a525ab92", 
+    "created_datetime": "2022-02-15T16:30:51.824088-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12872967, 
+  "md5sum": "6f32cae6ba6453f335340adfed8504ee", 
+  "file_id": "5c9b18bc-bc61-4fde-8e17-fa7bf5fd814b", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1EW-11B-33D-A138-05", 
+      "entity_type": "aliquot", 
+      "case_id": "9d166970-07c8-4ca3-9cfa-ed0049df9ecc", 
+      "entity_id": "2533e462-e4fe-46d1-b34e-6b3f7ea423db"
+    }
+  ], 
+  "file_name": "4af95eed-bfde-42c1-8e5f-d2aefa7bc55b.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "2c90c529-496b-42ca-ac16-39a5bf41624d", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:28:20.366746-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "4af95eed-bfde-42c1-8e5f-d2aefa7bc55b", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "db7e1d4b-0604-416b-8523-69a417ee0d95", 
+    "created_datetime": "2022-02-15T16:49:40.821142-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12962597, 
+  "md5sum": "976ba30ce1f4ade3c7ccc477ba65a4cb", 
+  "file_id": "5a28ab87-b8af-4db3-a8f1-b7c8a3ecf0ca", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1F2-11A-32D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "6a2972e3-cca9-47e5-aac0-b770f2399eeb", 
+      "entity_id": "912a631c-efe3-4455-9a73-26a9dac2c800"
+    }
+  ], 
+  "file_name": "7b85879d-8c51-496b-8386-f84ecc9eb4ff.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "2e6db459-e601-4e13-89b8-c99b190ec5e9", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:59:21.079692-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "7b85879d-8c51-496b-8386-f84ecc9eb4ff", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "e8c919b0-72f0-4701-962b-10962e8726b7", 
+    "created_datetime": "2022-02-15T16:29:08.515730-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13197475, 
+  "md5sum": "64735e53dab8f858faa28b9b28bae5a6", 
+  "file_id": "35a63163-bbe2-4a66-ba5c-b163ca0fc27a", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-A7-A0DC-11A-41D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "cb9f5e50-f49d-4899-8895-9367afcc1015", 
+      "entity_id": "36da685d-df49-495c-9200-28d5ee683604"
+    }
+  ], 
+  "file_name": "c2ab5465-6a15-4122-8100-f40b5af388e9.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "dd86eb90-d0db-443c-9456-3e508d9a8423", 
+  "data_category": "DNA Methylation", 
+  "annotations": [
+    {
+      "entity_submitter_id": "TCGA-A7-A0DC", 
+      "notes": "Tumor is DCIS and not invasive which is required by the TCGA BRCA study", 
+      "submitter_id": "23837", 
+      "classification": "Notification", 
+      "entity_id": "cb9f5e50-f49d-4899-8895-9367afcc1015", 
+      "created_datetime": "2014-12-03T00:00:00", 
+      "annotation_id": "43770fbc-9990-55cb-9360-f648cff75374", 
+      "entity_type": "case", 
+      "updated_datetime": "2018-08-23T16:36:27.780612-05:00", 
+      "case_id": "cb9f5e50-f49d-4899-8895-9367afcc1015", 
+      "state": "released", 
+      "category": "Item does not meet study protocol", 
+      "status": "Approved", 
+      "case_submitter_id": "TCGA-A7-A0DC"
+    }
+  ], 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:46:16.510554-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "c2ab5465-6a15-4122-8100-f40b5af388e9", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "9a45b5d2-0d14-46fc-93ce-1ac0f5193c1e", 
+    "created_datetime": "2022-02-15T16:33:49.035282-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12971140, 
+  "md5sum": "fa38462fce3a1b303ee9f2b84f38517b", 
+  "file_id": "d10b4a49-9a8d-4b37-bfb7-140ab04798ae", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E2-A1LI-11A-23D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "3558dec7-eae3-4a41-a217-266c6a4535fb", 
+      "entity_id": "77315c29-2295-48b5-a5fe-fbc83c3ea9d7"
+    }
+  ], 
+  "file_name": "18390c1e-988e-4f73-a070-a5801d35fe85.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "6784d38d-149a-4f9c-bdc1-a3fc7c2f2a75", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:43:36.275061-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "18390c1e-988e-4f73-a070-a5801d35fe85", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "3917aba7-dc97-4e21-891c-2ce4964519a4", 
+    "created_datetime": "2022-02-15T16:30:50.670723-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13158306, 
+  "md5sum": "943f57d997531a6d4a0ca981defecaa1", 
+  "file_id": "44d19884-f88d-4c7a-949e-20559e1b4d06", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0DI-11A-32D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "27ba717a-5cd8-440a-9345-4ae086f6efca", 
+      "entity_id": "0e9e676d-273f-4009-888d-7cfa11694f26"
+    }
+  ], 
+  "file_name": "860733cb-1290-47c9-9fe8-4ea9d9ecc4a0.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "60551175-b7a7-42c4-a629-7ea9400fc637", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:38:58.393255-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "860733cb-1290-47c9-9fe8-4ea9d9ecc4a0", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "caa493d7-34c2-4036-bde8-133ec564d741", 
+    "created_datetime": "2022-02-15T16:50:02.458894-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13050440, 
+  "md5sum": "971c84ed3d7c0ca2c2b001fd0fddb530", 
+  "file_id": "e0e9b8cf-1a61-4cf6-a28e-7b7424635a84", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0BM-11A-12D-A093-05", 
+      "entity_type": "aliquot", 
+      "case_id": "c2aeee6c-ba10-4cf9-b560-c739580f7bf3", 
+      "entity_id": "eeee1aa6-d8b2-4946-ad3e-fb15c09c093a"
+    }
+  ], 
+  "file_name": "eeee00e8-27d0-4ead-9c99-d8d9a50d2dbc.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "12228ee0-ccb1-4e5e-95e4-bf561a85fca7", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:06:46.379175-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "eeee00e8-27d0-4ead-9c99-d8d9a50d2dbc", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "42b2becd-b9ed-4db3-b1fb-0c0b49d93956", 
+    "created_datetime": "2022-02-15T16:36:00.644760-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12875473, 
+  "md5sum": "1b28c4dd7cddc723bdf4cac469caca57", 
+  "file_id": "a13119a3-1f05-43db-8ee0-e65a6f780b57", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0BF-11A-31D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "e6b79d7a-ed6b-459a-b040-d142616e7ab4", 
+      "entity_id": "6546d74a-079f-460e-9833-8a91a0ccf52f"
+    }
+  ], 
+  "file_name": "025cb903-4a31-4285-8f4d-966127e2ce71.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "af24fcd0-6438-4825-8494-425350c8d535", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:44:10.387849-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "025cb903-4a31-4285-8f4d-966127e2ce71", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "6c0d6db4-bd44-4b89-94fc-b175a758d113", 
+    "created_datetime": "2022-02-15T16:53:42.531421-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12878289, 
+  "md5sum": "49510bdf3025a48d42375f5cf7912912", 
+  "file_id": "20030dc6-2f09-49d1-9b04-103540b774b7", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0H9-11A-22D-A093-05", 
+      "entity_type": "aliquot", 
+      "case_id": "0f64edec-0f1f-4025-8a53-75f9534f7828", 
+      "entity_id": "064b9e6d-f329-47d2-8f51-ae2a8dfa2ae7"
+    }
+  ], 
+  "file_name": "6f05aa7f-8f44-41a2-a789-39266fbd5fb0.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "632929a6-7268-46ee-ad49-580c0cc20378", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:36:09.782150-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "6f05aa7f-8f44-41a2-a789-39266fbd5fb0", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "07cb7bb0-3ba9-45ed-99f6-f7b935138ad3", 
+    "created_datetime": "2022-02-15T16:29:39.262033-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12828630, 
+  "md5sum": "9a206294acfb4e850b38e90221fdd57d", 
+  "file_id": "883fd587-9d62-480e-8ec5-3149fb0ddad9", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A209-11A-42D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "5258294f-ef5b-4091-9183-6bcc545d54b2", 
+      "entity_id": "8c820129-7a68-4a20-b516-ce075e21d9d5"
+    }
+  ], 
+  "file_name": "33ff84ae-bea1-4b22-a6d9-d9fedecab250.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "90c03074-a951-429d-8380-bc4369c77bda", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:27:34.170784-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "33ff84ae-bea1-4b22-a6d9-d9fedecab250", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "a3f96bf6-e74f-42b1-a96c-11216de686bc", 
+    "created_datetime": "2022-02-15T16:48:40.937090-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12927649, 
+  "md5sum": "93885b03ea7155d7599a109cf724b57a", 
+  "file_id": "3afa0a03-8d2d-4254-83c7-83775d5abdfc", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-A7-A0CE-11A-21D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "9d95a65b-e41d-4f93-92d4-99dce29ff40d", 
+      "entity_id": "bbf79e49-f83c-49d9-b40a-5de1f36bf396"
+    }
+  ], 
+  "file_name": "7f9a85ed-19d4-49ba-b508-24cef19215c5.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "4f79d662-4b19-4e20-94f2-bc79c0d2db0b", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:50:32.339356-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "7f9a85ed-19d4-49ba-b508-24cef19215c5", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "3d43185e-2368-4729-a5aa-ff98828f1744", 
+    "created_datetime": "2022-02-15T16:51:41.208187-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13024685, 
+  "md5sum": "1e4b87c3a3c22a345e7ab176cc40080e", 
+  "file_id": "35beb025-4ff9-478c-b149-66bd6515ff01", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-A7-A0CH-11A-32D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "9de678e5-67ed-4453-a98b-7ac351d5d0f1", 
+      "entity_id": "2225ccba-d627-451d-9b45-500c9915061f"
+    }
+  ], 
+  "file_name": "b4513a50-db4c-4666-af7c-3941997c96dd.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "1743fb44-f4c6-49b7-bf7f-9bb27ba155c3", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:48:09.661758-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "b4513a50-db4c-4666-af7c-3941997c96dd", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "1e869dd4-5191-43c8-a3ad-4c7becc7c597", 
+    "created_datetime": "2022-02-15T16:38:54.052115-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12934736, 
+  "md5sum": "ddd432a7f5eb88b4af749dc6797cc9d4", 
+  "file_id": "aacdedeb-1ff5-439e-8c35-8ba8944360d5", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E2-A1L7-11A-33D-A145-05", 
+      "entity_type": "aliquot", 
+      "case_id": "791c5768-f0f5-4ab6-86eb-998e5c4b49e3", 
+      "entity_id": "d9a8158e-ff26-4547-94f6-02aaf0cab855"
+    }
+  ], 
+  "file_name": "662639b4-3c8a-494f-9ee8-52a4686b8eb8.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "a758a630-da76-4e00-b445-345cae34ffde", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:31:05.210412-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "662639b4-3c8a-494f-9ee8-52a4686b8eb8", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "479dcf64-f7ce-42a9-a99e-3ff7cb36b6df", 
+    "created_datetime": "2022-02-15T16:39:25.009973-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13201244, 
+  "md5sum": "1544bd123e20ad2a9d417dd0eea21f28", 
+  "file_id": "80e3e5c8-628f-43d0-abe0-d6a1b3b68ef6", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-AC-A2FG-11A-22D-A17F-05", 
+      "entity_type": "aliquot", 
+      "case_id": "39cda4c9-e1c8-44c2-bab7-f5849c12f879", 
+      "entity_id": "24d35f5b-2c9c-40c6-b1d2-00df483e438e"
+    }
+  ], 
+  "file_name": "36ab6700-d588-4ba3-8adc-e0971d797f35.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "f97d8a07-824c-4c2d-8b0a-b30f1dc55a64", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:41:08.675176-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "36ab6700-d588-4ba3-8adc-e0971d797f35", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "41aa4aea-6aa9-43f1-8e4e-8cd3bbe0ff9b", 
+    "created_datetime": "2022-02-15T16:44:50.725453-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13190927, 
+  "md5sum": "209288e9aac4389dc6a57b98ac708555", 
+  "file_id": "c9ddcd7e-17b2-45ca-9784-a1216fee5f46", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1F6-11B-94D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "ad18820b-a804-49c0-ba8a-86c09fa6bce2", 
+      "entity_id": "792343f3-5608-4d33-a535-8256c4916699"
+    }
+  ], 
+  "file_name": "8da6e66f-f014-4652-af13-c650c72c98ba.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "8d558362-91c9-4cb8-bede-207a86f5883e", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:29:14.251445-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "8da6e66f-f014-4652-af13-c650c72c98ba", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "1b1092a4-a629-4c1b-929b-8d88eaa3be22", 
+    "created_datetime": "2022-02-15T16:33:26.103799-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13132038, 
+  "md5sum": "a3ffe7aef9323a5d07e42e4675a5029e", 
+  "file_id": "dda7f683-4398-49f6-bc6f-496ae7bf7abb", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0BV-11A-31D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "87f03d04-e651-4a6e-aea6-1c946aa46202", 
+      "entity_id": "52088dc7-859d-4896-8335-c96b13c7019f"
+    }
+  ], 
+  "file_name": "f3088c37-e3a9-4a91-987b-38c0ecd4aea9.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "9400170e-b7ef-4075-9321-8877733a8ef0", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:40:12.708421-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "f3088c37-e3a9-4a91-987b-38c0ecd4aea9", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "ef71c325-f416-4af8-9ee7-61a698d8305a", 
+    "created_datetime": "2022-02-15T16:52:44.301267-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12804095, 
+  "md5sum": "14e5215d68ba7ec8ef7931fd4482795d", 
+  "file_id": "7251c6d8-28ff-430c-ab07-471b7b73ac47", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E2-A1IF-11A-22D-A145-05", 
+      "entity_type": "aliquot", 
+      "case_id": "718db047-9f32-48c4-98c9-515218441bca", 
+      "entity_id": "81a47ef6-b23a-4f4a-aa55-1163644e820b"
+    }
+  ], 
+  "file_name": "e789d370-f952-4903-b214-8cbaab4dd4f7.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "7daf8834-7c03-4bc6-b5b6-45cd078c8f41", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:44:25.998824-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "e789d370-f952-4903-b214-8cbaab4dd4f7", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "cae4ff96-965d-4390-b932-446c78f69ae7", 
+    "created_datetime": "2022-02-15T16:26:50.422094-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13200818, 
+  "md5sum": "fd39142d4298443e051cd1761845b47b", 
+  "file_id": "5654a5ef-84e5-4382-9b31-13177eeaf59e", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E2-A1B5-11A-23D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "7241b3d4-31ee-4fd2-a4a5-35a9d5f37d6a", 
+      "entity_id": "5a3c0585-4223-4081-b0ae-15d446576b0b"
+    }
+  ], 
+  "file_name": "b272b0ca-9f53-4e6c-9033-f53fee8496d2.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "75753346-b326-4937-a865-78baed17affa", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:51:03.221319-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "b272b0ca-9f53-4e6c-9033-f53fee8496d2", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "03bff929-cee3-4c11-aefd-18bb491a69b2", 
+    "created_datetime": "2022-02-15T16:33:28.859081-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13028573, 
+  "md5sum": "e9dae2c77cc3cc0e148f51b375f47589", 
+  "file_id": "582bdadd-52e8-4742-b078-9146044267aa", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0DZ-11A-22D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "478eb8aa-50b8-4ce5-98e4-d518ede4b174", 
+      "entity_id": "205f8070-33ea-4f61-a743-8aaf735a0b30"
+    }
+  ], 
+  "file_name": "7b5340d9-a4f9-4aa1-abd1-16c37dd95453.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "c6ef0e55-6b28-4828-a802-4d63bd2d833b", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:27:19.168618-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "7b5340d9-a4f9-4aa1-abd1-16c37dd95453", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "f43a7ae8-525d-4e3f-9cc9-16d45a7df0a2", 
+    "created_datetime": "2022-02-15T16:36:01.819883-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12870473, 
+  "md5sum": "18b40c459c277fa9cd3c615a9addb01c", 
+  "file_id": "2bb6edbd-e943-48dd-acd0-426c5dcd283b", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1RB-11A-33D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "94b95984-b2fb-4e42-8887-45e7086c3179", 
+      "entity_id": "a00d4b5f-8773-4e64-af23-342ddc055b57"
+    }
+  ], 
+  "file_name": "2b42483a-2ba5-480f-b756-e4806219739f.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "60551f1c-431e-48f2-ac13-6c876d784c8f", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:26:43.356910-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "2b42483a-2ba5-480f-b756-e4806219739f", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "bb43d28a-13fa-4bad-9ec7-2a158778bee9", 
+    "created_datetime": "2022-02-15T16:30:24.913885-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12876206, 
+  "md5sum": "9ee9553a944e78fe8928506d9627f43e", 
+  "file_id": "dc50fe0e-709d-49e8-b5dc-ace2b2ac7b4c", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-AC-A2FB-11A-13D-A17F-05", 
+      "entity_type": "aliquot", 
+      "case_id": "02bbb632-0f7f-439d-b8f0-c86a06237424", 
+      "entity_id": "3a9fa7af-4bd4-443e-b0ad-cfa5a9d28816"
+    }
+  ], 
+  "file_name": "9fb91152-1a6f-4c51-96e7-71dfc117d8c0.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "7dbc5be8-b9cb-43db-bd74-d4013fb0c95d", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:38:11.494837-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "9fb91152-1a6f-4c51-96e7-71dfc117d8c0", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "cf7826eb-218e-40bf-b1c1-45aa6164c651", 
+    "created_datetime": "2022-02-15T16:45:03.400985-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13180610, 
+  "md5sum": "cb3d9c3a29982d9e19a0b488d1b04828", 
+  "file_id": "519b872e-526e-4005-9798-797c1682b235", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1RH-11A-34D-A16A-05", 
+      "entity_type": "aliquot", 
+      "case_id": "408cb583-6dc3-4698-8bd2-e284042bd5ef", 
+      "entity_id": "1ad1191d-97fb-4adf-92b7-46ea7209f64a"
+    }
+  ], 
+  "file_name": "8df50c7b-93ce-498d-bca2-fae60069fd3e.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "0f53e1c7-231e-4846-8b04-99c0b8c1a924", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:44:08.132975-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "8df50c7b-93ce-498d-bca2-fae60069fd3e", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "7553b7fd-34b4-4e3c-b168-2eee6d2d9356", 
+    "created_datetime": "2022-02-15T16:49:43.678173-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13172652, 
+  "md5sum": "610f90ec66cc592f726669efdff983d8", 
+  "file_id": "29f87bdc-c609-45a4-bf24-7bb14d3cddde", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0BA-11A-22D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "49dc3e68-6206-4f16-969f-a758cc7be8ed", 
+      "entity_id": "a36c2184-ebcc-4c82-bb3c-6898a793579c"
+    }
+  ], 
+  "file_name": "b23235b7-ad0f-489a-9ba5-015cc5532071.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "2d80da7d-9e59-40e2-8628-928a57d9c5fe", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:34:09.665474-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "b23235b7-ad0f-489a-9ba5-015cc5532071", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "ee6f6a9b-9431-4403-bd60-f95da21acbd0", 
+    "created_datetime": "2022-02-15T16:50:40.086502-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12811467, 
+  "md5sum": "e97bf8f33823c3745598e0986a11bad7", 
+  "file_id": "af52c1b4-7164-45c5-ac4f-4a90c584ff24", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-AC-A23H-11A-12D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "7dcf550c-90ce-4f63-aecd-0e46897e2a3e", 
+      "entity_id": "fd24b8b1-7230-408d-8fe4-57a9b3f60a6b"
+    }
+  ], 
+  "file_name": "eca7c5bd-25d8-4f61-bd6f-02c76b7f0ae9.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "fd29150b-26be-4b94-a38e-bde98dc60258", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:57:51.582703-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "eca7c5bd-25d8-4f61-bd6f-02c76b7f0ae9", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "8d38570d-029b-4c90-9627-ca0e1577c42e", 
+    "created_datetime": "2022-02-15T16:53:27.884697-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12927904, 
+  "md5sum": "ec8e6542c426dc7ffe257f637598dbe0", 
+  "file_id": "e1f93126-9951-4aa8-83e4-906f9f64ef7a", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1FM-11B-23D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "7eb18190-5a41-4637-9783-f81bbde499e4", 
+      "entity_id": "446b9263-b49f-442c-9456-40ad9fcd5391"
+    }
+  ], 
+  "file_name": "efbae728-f3c9-41fa-abff-2a9030de52da.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "dcd85654-f14d-4275-8289-6af4bbb402a4", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:43:20.983752-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "efbae728-f3c9-41fa-abff-2a9030de52da", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "2d69bda5-11ea-4a7f-8d16-ef25948ee469", 
+    "created_datetime": "2022-02-15T16:46:44.484164-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13166535, 
+  "md5sum": "663fd41d7f614da67e36d8471a1c742d", 
+  "file_id": "532ad62b-576b-42dd-99c7-94d07a1676e4", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1RC-11A-33D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "5cdae21d-eee5-478f-932a-0f51fcf5f031", 
+      "entity_id": "98412a2e-c315-436b-8152-bd1f5485b4e7"
+    }
+  ], 
+  "file_name": "54e7953a-11a9-4bfe-802a-36c425f69c97.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "d328c489-55e2-4da4-bf21-f33f01899be1", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:57:32.258786-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "54e7953a-11a9-4bfe-802a-36c425f69c97", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "0332d066-1f4e-48af-b81e-6de3b17ce957", 
+    "created_datetime": "2022-02-15T16:52:22.793039-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12957741, 
+  "md5sum": "b0140053e0f1acf99ca643c663d40259", 
+  "file_id": "e281d21c-e913-4392-9def-9ecbc8f86da5", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E2-A1LS-11A-32D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "91a2f2af-e4b1-4a0b-ab20-6a36ce63c533", 
+      "entity_id": "fc379e05-ccc8-4e81-80ad-a9d9cbf3d82f"
+    }
+  ], 
+  "file_name": "49b13df5-de30-4678-9afe-99f000a78636.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "2bfa875e-4ad4-491a-8e8f-d568292f11b2", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:29:20.036121-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "49b13df5-de30-4678-9afe-99f000a78636", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "07038668-fa8b-4259-9c67-f70305cc019b", 
+    "created_datetime": "2022-02-15T16:47:29.603053-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13003986, 
+  "md5sum": "e5ffba6b219a0515d94cf6c8381dfb0e", 
+  "file_id": "35471e38-881c-42d5-a05a-d22b35549951", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0AY-11A-23D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "93ed6066-b567-4e1c-ab81-23370f9d3452", 
+      "entity_id": "41deef8e-6209-4419-a7f7-f620dbaa66ab"
+    }
+  ], 
+  "file_name": "932ce08a-704d-4fa7-80ab-6acbad7a4565.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "30a2ddcf-68f3-4e1d-9515-70dced5e9c26", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T13:00:47.093288-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "932ce08a-704d-4fa7-80ab-6acbad7a4565", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "19976a73-3408-44aa-8df4-76925c898584", 
+    "created_datetime": "2022-02-15T16:50:19.609910-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12986866, 
+  "md5sum": "9ca4a8693df639b61d3f02618145cd36", 
+  "file_id": "9f04cb29-529d-4928-89ae-f7c24844f0aa", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A208-11A-51D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "ddcbdac6-9e43-4146-a611-d033125eba14", 
+      "entity_id": "be8d723d-5f34-45b6-ae74-61bc606fd1a8"
+    }
+  ], 
+  "file_name": "0fee4e67-d8ce-413b-969f-17d33135a6ac.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "c76cc585-bb2d-49c5-a314-8d0792056f3e", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:30:18.295417-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "0fee4e67-d8ce-413b-969f-17d33135a6ac", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "217f5215-aa25-46df-b27b-e28b82200860", 
+    "created_datetime": "2022-02-15T16:40:24.468483-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12993935, 
+  "md5sum": "2bc11850607c8a2ab4bff536320332e5", 
+  "file_id": "8fc2cdd5-4e37-46e6-96e3-9eb484a757f9", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0C3-11A-23D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "7bcf6d42-eb8f-4aa2-825b-38671d4f9e3a", 
+      "entity_id": "3669fca6-4284-488e-9c6c-4d96885fac9c"
+    }
+  ], 
+  "file_name": "5c28a678-39ba-4a1f-91bb-6064457c5b5d.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "62518a0f-cd4c-45b3-ae42-96917b571362", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:35:49.577079-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "5c28a678-39ba-4a1f-91bb-6064457c5b5d", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "74c07599-3771-4ca7-b3ca-66814cb57b2f", 
+    "created_datetime": "2022-02-15T16:38:47.553494-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12939938, 
+  "md5sum": "00d943e02f59a8d4789436f3a27c300b", 
+  "file_id": "99c761e4-01b6-4132-8563-157424d9656a", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1EO-11A-31D-A138-05", 
+      "entity_type": "aliquot", 
+      "case_id": "4510295e-8aa7-4ef1-b2b7-91cc902f8200", 
+      "entity_id": "4ebac4a8-35d0-40cd-aae9-d76ab97db3b7"
+    }
+  ], 
+  "file_name": "b423368b-bd44-48fa-b5e6-a5200e65bd34.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "7284d083-0418-46fd-851a-4d89d31a7174", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:39:47.827976-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "b423368b-bd44-48fa-b5e6-a5200e65bd34", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "8f2a4897-31df-4aa1-830c-3fcf7b79ce6e", 
+    "created_datetime": "2022-02-15T16:43:49.163988-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13145536, 
+  "md5sum": "e61fa86aa745403a83732444b0e0ae74", 
+  "file_id": "add7b781-5b7c-42fd-a688-3bd38359f06b", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-A7-A13E-11A-61D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "8c7e74e0-71ef-49b8-9217-94b8ef740ef9", 
+      "entity_id": "f7315045-b78d-49b0-87a5-36e24fea92b5"
+    }
+  ], 
+  "file_name": "f8c592a9-aec8-468d-9df0-4db40c9cc311.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "77396e9d-0e8d-4f76-ad4b-17fbbc0854a3", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:52:30.565370-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "f8c592a9-aec8-468d-9df0-4db40c9cc311", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "a94fa81a-b457-4eb8-b813-800f0571b969", 
+    "created_datetime": "2022-02-15T16:40:16.439192-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12971290, 
+  "md5sum": "5a2c2204dfb2e9e676dd832734e10a13", 
+  "file_id": "b83b5e9f-73c7-4aad-b279-8a4b18f4bca6", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0DH-11A-31D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "491b6364-1223-474f-816f-e248c8c841e2", 
+      "entity_id": "210142ef-0c3f-40c1-8cb5-cab8a87d6454"
+    }
+  ], 
+  "file_name": "1c1f2de2-fe0f-4cd1-9146-40e9503b7b5e.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "188b13ba-2b94-4505-a1c5-64c419593155", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:32:25.636085-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "1c1f2de2-fe0f-4cd1-9146-40e9503b7b5e", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "8cb00de8-3ffb-4c1e-9d51-56ca47511363", 
+    "created_datetime": "2022-02-15T16:40:08.442603-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12781055, 
+  "md5sum": "91b0c7feb964731a087850d6e0f97f8b", 
+  "file_id": "739c7fa9-33ad-49bd-8e59-b00842de5234", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0E1-11A-13D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "606fbc6a-b41b-441d-9401-51e54912bf5e", 
+      "entity_id": "fd3f4b5e-cdbe-47ba-bf56-4e2d47072823"
+    }
+  ], 
+  "file_name": "d92fd6fe-e552-41fc-9cd3-22b659d95115.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "45adaeab-7ee2-455d-b3f8-1d7b5c832ff7", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:29:08.626257-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "d92fd6fe-e552-41fc-9cd3-22b659d95115", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "cc4e2cb2-411c-4a4b-8a74-2aef4da6933f", 
+    "created_datetime": "2022-02-15T16:38:30.134128-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12921928, 
+  "md5sum": "0f0ad12bd194e0b119e9fd745b3ab9e0", 
+  "file_id": "97d0c303-de03-4d63-8101-ff2f965d6728", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1EV-11A-24D-A138-05", 
+      "entity_type": "aliquot", 
+      "case_id": "417dea5f-f68e-4dab-940e-43ae8c67e5e6", 
+      "entity_id": "bcd79f79-c942-47b2-b560-f4410fad563f"
+    }
+  ], 
+  "file_name": "890e292c-3cad-49c3-8d81-28c37e0663c5.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "82ca3584-a1c9-42c2-b91d-0efbfbc0b90e", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:41:56.332461-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "890e292c-3cad-49c3-8d81-28c37e0663c5", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "65f76e5a-1491-406e-b352-4284206e2678", 
+    "created_datetime": "2022-02-15T16:31:18.489545-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13108138, 
+  "md5sum": "9c4e0bba3a88ee0361fcd52e138bdb1c", 
+  "file_id": "74f6fd2f-4deb-41b0-b3da-78f9244afc1a", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A204-11A-53D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "05135396-df5c-49db-b34e-f4add5b65a2b", 
+      "entity_id": "b1c8aa5d-f5dc-4bb4-a704-d609dbb54af3"
+    }
+  ], 
+  "file_name": "6caaa059-b401-4e52-9b15-1a32d37132da.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "e2787d1b-21ce-40a7-b93d-b6b41428e38a", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:07:41.344731-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "6caaa059-b401-4e52-9b15-1a32d37132da", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "d8384437-fe12-4dc9-8c57-6c686ee786f0", 
+    "created_datetime": "2022-02-15T16:27:13.585936-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12961556, 
+  "md5sum": "b728164e363b273a2f12d9ff6122fffa", 
+  "file_id": "35c38026-5876-4c28-8433-cd03134841fc", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-A7-A13F-11A-42D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "2cf68894-168b-458b-af4f-53cad72989a8", 
+      "entity_id": "1c71c26e-509f-440e-907b-efb9882d47ab"
+    }
+  ], 
+  "file_name": "fb16474e-6a09-4d42-8bdc-76dfd17b1247.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "b4f3be7b-2752-4c48-b83e-9e8eb13f39d9", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:53:33.961439-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "fb16474e-6a09-4d42-8bdc-76dfd17b1247", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "8962f283-eac1-4477-8ef3-18eee3ee2877", 
+    "created_datetime": "2022-02-15T16:34:11.683936-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13104393, 
+  "md5sum": "d628f4e75088e0502617097efc28b1d8", 
+  "file_id": "9b48ba82-a4b0-43d5-9536-03fedf03f566", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0H7-11A-13D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "2021ed1f-dc75-4701-b8b8-1386466e4802", 
+      "entity_id": "6dfbf8d6-4769-4183-b712-b62411a86757"
+    }
+  ], 
+  "file_name": "2fbf3caa-185e-4bfd-8970-22e89ec35e3b.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "ad49a58f-eef5-4d62-9db1-3c9d969c4807", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:35:37.915611-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "2fbf3caa-185e-4bfd-8970-22e89ec35e3b", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "57a28a32-872e-46d6-a207-112249294e63", 
+    "created_datetime": "2022-02-15T16:49:18.725804-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12729509, 
+  "md5sum": "ffc999751e302c26331f2e7d2badbe04", 
+  "file_id": "a35cedc9-d39f-4859-aab7-15b3e1bb3393", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1F0-11B-23D-A138-05", 
+      "entity_type": "aliquot", 
+      "case_id": "21ef1730-e5a7-47ce-b419-d000bb59ae15", 
+      "entity_id": "e752193f-528a-4478-a674-330df0479db2"
+    }
+  ], 
+  "file_name": "84301c42-0ea8-4af9-9aa9-5d42b26e0128.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "cc82f908-307a-4d8b-a78f-d43861d957a7", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:07:23.680540-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "84301c42-0ea8-4af9-9aa9-5d42b26e0128", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "b1439943-0496-4499-8fc0-4862f350db06", 
+    "created_datetime": "2022-02-15T16:45:11.949077-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13060168, 
+  "md5sum": "19dc579343f281f06f6ce79156a9c580", 
+  "file_id": "e8c18da8-cf88-42f5-9c26-84dd581cdb70", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0AZ-11A-22D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "518f231c-f5f9-4a39-a97b-7fd5666d3e50", 
+      "entity_id": "532e8585-7bad-4054-94ef-0ccd094b26f9"
+    }
+  ], 
+  "file_name": "1cc8046a-b2c5-46a7-b2c5-8afea8f2c2df.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "1ce42b89-37cd-4d7f-871c-6a3f9bfa451e", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T13:07:58.659986-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "1cc8046a-b2c5-46a7-b2c5-8afea8f2c2df", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "5e359242-ea43-4175-a65a-0e484206bb69", 
+    "created_datetime": "2022-02-15T16:37:11.621977-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13024154, 
+  "md5sum": "a908766185eda8253976d7fed7ea0a16", 
+  "file_id": "c8f90d82-46e0-419c-a186-183fe154160b", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-A7-A0D9-11A-53D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "17baef7c-d97d-4b98-ab53-503ef856523d", 
+      "entity_id": "b3cc6d8a-5be2-49ec-b527-09272ac6f8b7"
+    }
+  ], 
+  "file_name": "0aa79043-5944-4621-b1d9-b1f105b2a632.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "4b147a8b-eb67-450a-a64d-f5cc4bd9f815", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:38:28.636322-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "0aa79043-5944-4621-b1d9-b1f105b2a632", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "fe9c1c40-a6ed-4c55-a4c6-d29237d070eb", 
+    "created_datetime": "2022-02-15T16:51:54.099780-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12963830, 
+  "md5sum": "2782c74d628ef9615850d6e5e469e142", 
+  "file_id": "524449f6-41c9-4606-b46c-0be1adc470b8", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E2-A15K-11A-13D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "17c1d42c-cb84-4655-a4cd-b54bae17ecaf", 
+      "entity_id": "1362c1ad-7658-49a2-b553-3ea94e1752cf"
+    }
+  ], 
+  "file_name": "bdf099de-e38d-40c1-839f-bd48586b2261.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "2c982344-f970-4776-bac9-8a8555ede24e", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:29:40.019562-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "bdf099de-e38d-40c1-839f-bd48586b2261", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "25b9442d-329f-4833-bb3a-6023182ee578", 
+    "created_datetime": "2022-02-15T16:29:02.573067-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12968989, 
+  "md5sum": "d2e138d90fb27f30869d781ad5034ad9", 
+  "file_id": "a5c9b630-a533-4532-8ec3-1d53c8152a13", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1EU-11A-23D-A138-05", 
+      "entity_type": "aliquot", 
+      "case_id": "a1093598-d3a8-4ffe-83fc-bc7d1faff7e5", 
+      "entity_id": "6c77e6d7-aa30-40b0-9378-19d2a3ec1def"
+    }
+  ], 
+  "file_name": "af0f4de3-3835-4296-84ae-6273f2a9e4cd.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "2baf33f6-8152-4f8a-8cf4-7bcd2c176ef1", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:59:34.394144-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "af0f4de3-3835-4296-84ae-6273f2a9e4cd", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "c0ba29ac-88eb-4f5a-8dbe-bf8a90ccbd7c", 
+    "created_datetime": "2022-02-15T16:36:56.708885-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12924909, 
+  "md5sum": "86fef54717fcf2f27387bfe8f0be0227", 
+  "file_id": "26699998-3249-4efa-9a7d-6519f3e376d8", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0BJ-11A-23D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "d6f911b5-e895-43f8-8f86-0ac2f1bc6fae", 
+      "entity_id": "78eb9521-bc6b-4dc2-8dad-df718e22006f"
+    }
+  ], 
+  "file_name": "ebb1f8ad-d428-49f9-a0e3-bdaeefe7e735.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "3eb97b69-411b-4475-87cb-575e66d86c53", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:53:09.102334-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "ebb1f8ad-d428-49f9-a0e3-bdaeefe7e735", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "8901b351-3713-4468-a2b2-e833dcc2abdc", 
+    "created_datetime": "2022-02-15T16:44:44.126399-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12854391, 
+  "md5sum": "cad5b3d77db497becd735c49eb511095", 
+  "file_id": "7fd75413-78e9-4031-a356-d7542496f697", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0DG-11A-43D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "0bc5744c-5fa3-45bb-87d0-70a02068b392", 
+      "entity_id": "879d5efb-e3ba-4e33-81dc-e3ac11e30b95"
+    }
+  ], 
+  "file_name": "79fea483-3b0a-4ae1-8917-263288975f08.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "9e291d13-d721-495c-a8ca-1a70471bf4af", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:44:54.936267-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "79fea483-3b0a-4ae1-8917-263288975f08", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "2d540613-b6d0-4354-9db6-275af3f060da", 
+    "created_datetime": "2022-02-15T16:35:04.532962-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13035794, 
+  "md5sum": "5f42d6c11fe7f33f66ab8c8dc7cd9fb0", 
+  "file_id": "3283180e-8361-4971-b8af-3d449afd01e2", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1EY-11B-21D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "0741b5db-4405-42ba-b63a-c6ee4f341480", 
+      "entity_id": "03782716-e528-4835-9328-c698ab94ec4c"
+    }
+  ], 
+  "file_name": "eb34920a-abd0-4211-9893-378b32ff9716.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "227a53d0-88a6-4f47-9c57-ae7eef349abb", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:59:55.450937-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "eb34920a-abd0-4211-9893-378b32ff9716", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "498dd896-6a2f-4753-827c-28df7f17be35", 
+    "created_datetime": "2022-02-15T16:31:30.042168-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13160084, 
+  "md5sum": "aef698769125f0182431eb12874b5d58", 
+  "file_id": "093dadb3-730a-400e-bdde-fd78324621ce", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0E0-11A-13D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "20e8106b-1290-4735-abe4-7621e08e3dc8", 
+      "entity_id": "63ff0e42-0429-4e28-bff3-4446d1d18f29"
+    }
+  ], 
+  "file_name": "1cb177b5-4a9b-41d5-aae3-8d806eaf6b7b.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "32326dba-e0c9-441d-97b6-2dc9239ab357", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:30:24.032339-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "1cb177b5-4a9b-41d5-aae3-8d806eaf6b7b", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "a55bad04-2e3a-44bb-ad6e-2c9ff1fe7eab", 
+    "created_datetime": "2022-02-15T16:52:16.154832-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12865264, 
+  "md5sum": "35043ea8ef60e93e38f67feefc29a002", 
+  "file_id": "eab8bbbc-22b0-4507-9bd8-cd5621131444", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0BT-11A-21D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "a32cb96a-78bf-456e-a6ab-2d47b2c67ad4", 
+      "entity_id": "1853684a-e44e-4a70-bf2d-45e56c6b0cb0"
+    }
+  ], 
+  "file_name": "2345779f-0fb2-490e-98c6-9898191fb415.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "0c86c7f3-a088-42d6-8644-07ba875c60d0", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T13:02:20.027384-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "2345779f-0fb2-490e-98c6-9898191fb415", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "a4c45a35-ae10-4ff7-ab89-ca3caaeadb39", 
+    "created_datetime": "2022-02-15T16:53:54.657351-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13015589, 
+  "md5sum": "7ccd0b51ed815033a26018c733c9292c", 
+  "file_id": "b65bdc5d-baac-46ed-8e22-aece37b3d94d", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1FH-11B-42D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "1783cac1-253a-40af-a9ac-48dfb20e1ab8", 
+      "entity_id": "5451cd7e-22f0-4536-96f7-17128fac4bfe"
+    }
+  ], 
+  "file_name": "00199110-e329-445c-89d4-27b4fdaec059.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "7e163fef-29aa-4122-86a4-6fad96a1e277", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:51:05.260063-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "00199110-e329-445c-89d4-27b4fdaec059", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "3f00736e-18f6-4d19-99cc-3cfc7f9812f0", 
+    "created_datetime": "2022-02-15T16:51:55.456681-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13191113, 
+  "md5sum": "0a99cda25bb529812e36ea56a715297d", 
+  "file_id": "9f48b527-23c2-4e70-af44-6fc9a66425ad", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1NG-11A-52D-A14N-05", 
+      "entity_type": "aliquot", 
+      "case_id": "659b0170-e914-45ff-aa55-fcb8d3dc7b8a", 
+      "entity_id": "fd3baae4-a016-4fb7-ba7d-76fee2cdd35d"
+    }
+  ], 
+  "file_name": "da721438-30a4-45bd-88ea-72f6d206d70b.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "4dbade0f-c3df-4165-980b-222e2179c785", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:55:38.818927-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "da721438-30a4-45bd-88ea-72f6d206d70b", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "de1d5c38-44af-4176-a82f-cabf3f29e676", 
+    "created_datetime": "2022-02-15T16:37:15.316325-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13158210, 
+  "md5sum": "a2700116f78d9f8d7e9316cf51ee54b0", 
+  "file_id": "25e1008a-9870-4934-9fbe-5891e5e4d4f1", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1R7-11A-42D-A14N-05", 
+      "entity_type": "aliquot", 
+      "case_id": "2680da86-c977-4611-b75f-df015283c023", 
+      "entity_id": "6ea1fed5-957d-42b9-bda8-c4621cf8b95e"
+    }
+  ], 
+  "file_name": "c9dcd9f6-e4f0-4e71-8195-a76f30b1f3a0.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "90ab7422-cdf2-4700-a51c-b637f34f263d", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T13:06:31.349438-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "c9dcd9f6-e4f0-4e71-8195-a76f30b1f3a0", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "c7f84967-87de-44f1-a80f-d0ec36a00410", 
+    "created_datetime": "2022-02-15T16:43:36.912425-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13182844, 
+  "md5sum": "8bcee05140d0cc1969922310a95cd88a", 
+  "file_id": "2afe08d8-5d2a-4495-b887-cd6b9844778d", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0B3-11B-21D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "18eb4dfc-556f-4bf3-a411-4780209ed1e0", 
+      "entity_id": "10d46e50-67bc-4db3-b7ad-2104b61d8c76"
+    }
+  ], 
+  "file_name": "45fedb75-bf65-4bcc-ac75-bce2b882e8d7.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "e30bfff9-2071-42bb-b3df-f2d4399b7b8b", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:39:02.224496-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "45fedb75-bf65-4bcc-ac75-bce2b882e8d7", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "da414329-7ed4-445b-8126-feb490036b90", 
+    "created_datetime": "2022-02-15T16:35:39.423653-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12834786, 
+  "md5sum": "9dce565345552ee6bc3e3d9144b2edc4", 
+  "file_id": "4b2a08fb-6ecd-4f84-a40b-6c58a0dadbab", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0B8-11A-41D-A093-05", 
+      "entity_type": "aliquot", 
+      "case_id": "d3a75976-67d3-40fa-9f6f-cf2a3d7b773c", 
+      "entity_id": "bd021089-acf9-41c6-8c2c-cce1d1a507be"
+    }
+  ], 
+  "file_name": "9102ccb5-f20c-4f5b-9fc0-6973c3f0381f.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "1ac69a21-25a4-430b-a6ce-e514781612bb", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:04:25.648695-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "9102ccb5-f20c-4f5b-9fc0-6973c3f0381f", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "827525fc-02dc-4609-aab6-f1d8f6fffe46", 
+    "created_datetime": "2022-02-15T16:32:03.721487-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13018165, 
+  "md5sum": "f2cb84fef343ce3d86975a63a6c8eb7e", 
+  "file_id": "8d60f42d-9a81-469f-a3c7-6e5ee0e53d33", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1FG-11B-12D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "d4e7426c-9739-4585-9114-e564b13c7c02", 
+      "entity_id": "7c62eb3e-0b8c-498f-95fb-4401835622f7"
+    }
+  ], 
+  "file_name": "d2957950-f018-4b81-b072-320e1e790fbd.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "5a0704c9-28a7-4b40-8e82-e008254c1a98", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:30:01.127194-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "d2957950-f018-4b81-b072-320e1e790fbd", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "ebf8e066-8969-43e1-bd6a-a6fbc20bc873", 
+    "created_datetime": "2022-02-15T16:29:43.089105-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13208241, 
+  "md5sum": "82038dc3313340c3bf2d2226d8a4f68a", 
+  "file_id": "1dbc2b0d-0268-46b4-9b79-3c70520fe8b8", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0DV-11A-22D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "96b9c7db-1be1-4b60-b47c-26b654c3d64c", 
+      "entity_id": "42acde4d-ed1b-485d-82ec-53190420882d"
+    }
+  ], 
+  "file_name": "86ff19fe-bc20-4f75-b9f9-32f4f0041f89.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "3e55e11b-d590-423e-bba9-8ee85dbd3928", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:58:14.970570-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "86ff19fe-bc20-4f75-b9f9-32f4f0041f89", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "125d79a6-8304-4526-a7ed-28ba67081a55", 
+    "created_datetime": "2022-02-15T16:49:37.839253-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12874568, 
+  "md5sum": "298e430a8c40000b25796b6bcc293aee", 
+  "file_id": "bcc086c5-0d9c-4197-9b7a-b324120e6a98", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0DQ-11A-12D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "a851ca14-7bbf-455b-a054-ec03979a4247", 
+      "entity_id": "a69b0bce-3e02-4f82-b719-b91262edf24e"
+    }
+  ], 
+  "file_name": "d4a85cc7-c7c1-4817-8844-30a6e1338517.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "03a952a8-d745-41f4-a54d-ccfe37c0c913", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:34:47.481942-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "d4a85cc7-c7c1-4817-8844-30a6e1338517", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "708537ae-0818-4e48-a634-a5e5f2a75095", 
+    "created_datetime": "2022-02-15T16:44:23.567463-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12838533, 
+  "md5sum": "8d4c97539b719d8d3faf7db3292bb042", 
+  "file_id": "13d68a17-860b-40d6-a370-1a480885ba9a", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0AU-11A-11D-A12R-05", 
+      "entity_type": "aliquot", 
+      "case_id": "360d1d6d-cf3e-4c78-b36f-ef5e3160aa6b", 
+      "entity_id": "d1c5ed8c-9127-4a99-9b6a-f697b2257159"
+    }
+  ], 
+  "file_name": "56b5e2d6-7e74-4eb6-87f6-02fddc6804bd.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "12d1be72-7896-4bfd-8f8e-c94f17cd0b29", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:07:56.668753-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "56b5e2d6-7e74-4eb6-87f6-02fddc6804bd", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "44f82847-efe5-4b72-9aae-eaa7fdfde546", 
+    "created_datetime": "2022-02-15T16:45:48.165419-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13102588, 
+  "md5sum": "15ec383c233d0fcea723dcc881d5d320", 
+  "file_id": "c7d6ed01-4d5a-434d-bae9-a67fbea5b7d0", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1RD-11A-33D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "5fe3c51f-65e2-4da6-8924-a6fae17c022d", 
+      "entity_id": "b381ccca-0666-459c-85bc-794edebfc3fb"
+    }
+  ], 
+  "file_name": "6596a401-07bb-46c8-9b0b-a4bfae13bafc.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "a4be06de-ca11-49e5-8e9d-c17d102569ad", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:31:09.450048-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "6596a401-07bb-46c8-9b0b-a4bfae13bafc", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "c97d93c4-0bb3-4070-b6e6-9a8d26d7c6d2", 
+    "created_datetime": "2022-02-15T16:28:43.821223-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13164077, 
+  "md5sum": "8a1b8e97ba6e6a428e0bc64dd44b8e6b", 
+  "file_id": "c66fc614-0ce4-446e-80fe-900678002c51", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1FC-11A-32D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "b97bf89a-7a85-4eef-ae7e-f787aead1f0a", 
+      "entity_id": "8e603743-5c64-4e9f-84d5-3c8501e7ea3b"
+    }
+  ], 
+  "file_name": "cab186b3-2476-43a3-9b15-f822b8487d5b.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "12709da7-8168-4b02-b375-b4fe66c67025", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:26:39.311505-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "cab186b3-2476-43a3-9b15-f822b8487d5b", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "47ab595d-bf7b-43d3-9a08-151f3552ddfd", 
+    "created_datetime": "2022-02-15T16:48:07.031497-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13152232, 
+  "md5sum": "b42e9795e100a429f9041da02a488f4a", 
+  "file_id": "a29db5bc-10ed-4f7f-8090-167adbeccd02", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1N5-11A-41D-A14H-05", 
+      "entity_type": "aliquot", 
+      "case_id": "f954de05-1b44-4087-8933-6cc72d81028d", 
+      "entity_id": "907d7b6c-d369-40fe-9ef8-675815016598"
+    }
+  ], 
+  "file_name": "8e05fcfb-c01e-4496-8eaa-ed27c24c92b7.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "d1c7c07b-a091-4ca5-9c2e-4567015bb159", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T13:06:29.671360-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "8e05fcfb-c01e-4496-8eaa-ed27c24c92b7", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "d9501efb-f773-475f-9b32-af2694478a84", 
+    "created_datetime": "2022-02-15T16:43:12.722664-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13187703, 
+  "md5sum": "1dcc65cdd24a4ef965d0d24e71b53016", 
+  "file_id": "cad3c8fc-2a75-4c88-9210-84b94ded84a5", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1FR-11B-42D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "bf3b1481-ae31-4406-b084-b6cc1d7163e3", 
+      "entity_id": "b96379f3-42e4-4c63-a0ec-8f11f1032999"
+    }
+  ], 
+  "file_name": "bdc0b2d2-d16c-4ecd-80c2-9636fe7a36db.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "23653ccd-bf10-436d-a68e-6c2dd474933d", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:34:27.321269-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "bdc0b2d2-d16c-4ecd-80c2-9636fe7a36db", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "b8cfa0b0-bc7c-441f-b180-ab03ea4b33c6", 
+    "created_datetime": "2022-02-15T16:53:23.603971-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13157495, 
+  "md5sum": "1cb6096951686f2b8af2c8bc8616f82c", 
+  "file_id": "c297a402-e8a6-4d6d-bd3d-bb2d69250a36", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0BC-11A-22D-A093-05", 
+      "entity_type": "aliquot", 
+      "case_id": "327a2395-85c8-42e1-9638-8e037a1723ed", 
+      "entity_id": "f723c60e-e9cb-4c80-9823-3370610d1691"
+    }
+  ], 
+  "file_name": "337141d0-7f0e-44ff-9fde-e511bd51947e.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "570c06b2-11d2-4316-bc08-fca1035bc792", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:02:56.997716-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "337141d0-7f0e-44ff-9fde-e511bd51947e", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "f8e99d45-14c9-4bc9-83e7-fa4f954b4afa", 
+    "created_datetime": "2022-02-15T16:40:47.493279-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13013501, 
+  "md5sum": "32aad2ce9232f7c00668e8eda93b73be", 
+  "file_id": "85f282ad-f671-4efe-b240-ca2a91e55222", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0HK-11A-11D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "24334ac1-28a3-4b61-b590-3f51e375b247", 
+      "entity_id": "ae3e7cec-b91b-4695-9130-4f0012b3e3ff"
+    }
+  ], 
+  "file_name": "75254133-5452-417a-8788-042bd8208aae.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "15d6ed81-8005-4fe6-93ef-6be5a8530159", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T12:30:42.388063-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "75254133-5452-417a-8788-042bd8208aae", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "1fa5ff89-a44f-4492-97b1-d50d3b330741", 
+    "created_datetime": "2022-02-15T16:33:20.682114-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12937639, 
+  "md5sum": "c424d69082ac42c1e6c1995ff5c708ca", 
+  "file_id": "485b4a1a-a541-4044-a83a-c5876bb770b4", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1ND-11A-43D-A145-05", 
+      "entity_type": "aliquot", 
+      "case_id": "f06f09f3-8133-4a92-ac86-fbe64295e0d8", 
+      "entity_id": "39f197ea-ea09-4df8-8d1b-bf76dc88c0fd"
+    }
+  ], 
+  "file_name": "d043a178-d52d-494f-88bb-1e8cc63cfa15.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "a87e9dc2-5488-4772-9462-e9b10fa282ed", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T13:01:04.880062-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "d043a178-d52d-494f-88bb-1e8cc63cfa15", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "80dd1734-e0f7-4628-b83f-e137e4351b5c", 
+    "created_datetime": "2022-02-15T16:50:52.445596-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13203228, 
+  "md5sum": "07574ba5d4c0cf8949138c2295d69037", 
+  "file_id": "a604a310-1882-495a-8438-f27f39e9f2aa", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A0DK-11A-13D-A10Q-05", 
+      "entity_type": "aliquot", 
+      "case_id": "f2bbfa9d-9a9d-4f46-9fde-378e4c44e2ad", 
+      "entity_id": "1344e43c-b925-4c77-bf0e-2419641d5f98"
+    }
+  ], 
+  "file_name": "b11e1501-094c-403b-8f3c-83f91efe2578.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "03f989fc-1b84-4092-a10d-b32f9ddf3bcc", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:59:01.808015-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "b11e1501-094c-403b-8f3c-83f91efe2578", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "0190bc5c-7183-4ba9-aa69-ce66e9458953", 
+    "created_datetime": "2022-02-15T16:31:13.333814-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12909582, 
+  "md5sum": "6e0285a5f44a744554f9a2122be9d690", 
+  "file_id": "93cdd6a3-0496-47cf-a3f0-3ea5ac9a4b05", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1N8-11A-42D-A145-05", 
+      "entity_type": "aliquot", 
+      "case_id": "ac075bc0-1b59-4557-beea-541694faee03", 
+      "entity_id": "21fdd5df-fde6-449b-90c6-ca687977dd18"
+    }
+  ], 
+  "file_name": "23499aed-6f81-419a-b2d5-dd17d5f96370.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "d4731270-f6e4-46a0-b758-b470a233b0ee", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T12:29:17.994099-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "23499aed-6f81-419a-b2d5-dd17d5f96370", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "9287fcfb-0215-428b-85dd-ca9938b9cfb4", 
+    "created_datetime": "2022-02-15T16:44:05.981384-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13201981, 
+  "md5sum": "2385d1be42b6484e1558b75ea1f8ee3e", 
+  "file_id": "dfb6d4a9-5de9-4820-b78f-4d8532ab26a4", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A203-11A-42D-A16A-05", 
+      "entity_type": "aliquot", 
+      "case_id": "b3264748-947a-43aa-b227-b294fbcc8447", 
+      "entity_id": "b3454df9-8202-458c-ab8c-ad7f94fe8fc8"
+    }
+  ], 
+  "file_name": "013aeb1b-ac57-430e-a8b5-e9f886b10f1b.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "ea7ca61a-5e9b-4653-9bb5-79acb7db2436", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "dc9467b78cf538a0430cd4027dc5092f77d47e20", 
+    "updated_datetime": "2023-07-14T13:02:59.087829-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "013aeb1b-ac57-430e-a8b5-e9f886b10f1b", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "f0dc202b-5dc8-4ce8-bb7e-bc68839eb2aa", 
+    "created_datetime": "2022-02-15T16:45:39.643862-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13175783, 
+  "md5sum": "59917e465141e7547c56ce08d3c6d51f", 
+  "file_id": "a08cb4f3-a540-4cb5-9e33-91a1af9e3b4b", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-AC-A2FM-11B-32D-A19Z-05", 
+      "entity_type": "aliquot", 
+      "case_id": "b6b1dc9a-91f4-4b0a-afd5-62c9a90c0d5e", 
+      "entity_id": "1a41c263-a95d-4ccd-a9fb-4ba098eae01a"
+    }
+  ], 
+  "file_name": "05effd3b-1633-4100-a062-268a5da0a33a.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "be11fc10-261c-49ff-b6b3-9984bd6943c5", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T13:01:16.910756-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "05effd3b-1633-4100-a062-268a5da0a33a", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "1400bede-7494-4248-a2bd-5b89a3f08799", 
+    "created_datetime": "2022-02-15T16:32:08.918055-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13174000, 
+  "md5sum": "e8e10856d2f1153b9d4dcd03ce3dba13", 
+  "file_id": "6420a88f-2352-44eb-89fe-829e5c2d0955", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-BH-A1FJ-11B-42D-A13T-05", 
+      "entity_type": "aliquot", 
+      "case_id": "f6581eee-61b9-43d4-ab0d-ce5ce3ba1c74", 
+      "entity_id": "85a44776-2c41-44f3-9f45-9c05f45655f2"
+    }
+  ], 
+  "file_name": "b59fc222-6929-4734-9d37-e962d861d3fc.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "aff4796a-7002-4530-b2aa-22cbe1a26d3b", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:31:42.360324-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "b59fc222-6929-4734-9d37-e962d861d3fc", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "d8cf5316-3915-4a1a-a44d-730b72adb330", 
+    "created_datetime": "2022-02-15T16:34:53.472863-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13181979, 
+  "md5sum": "636a9c72a96a151ef680dceb35152a95", 
+  "file_id": "17e07de7-6f7c-4224-8c8b-422f623cdc97", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-A7-A0DB-11A-33D-A093-05", 
+      "entity_type": "aliquot", 
+      "case_id": "f130f376-5801-40f9-975d-a7e2f7b5670d", 
+      "entity_id": "248bb641-7eef-46f5-ae81-5e9e626eccc9"
+    }
+  ], 
+  "file_name": "7c2b5cc5-f43c-4351-b496-16e9fb82b238.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "3fc55d2a-6874-467e-9829-40b10c175a81", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:52:28.546934-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "7c2b5cc5-f43c-4351-b496-16e9fb82b238", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "fb48ec44-2556-4cb3-9c45-5f02a9d219e2", 
+    "created_datetime": "2022-02-15T16:30:40.261698-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12940488, 
+  "md5sum": "00136342cc19b6444169d302b59f9cf1", 
+  "file_id": "5c4b83eb-f7d3-4b48-b008-fb4b4d28c6ba", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1NE-11A-43D-A14N-05", 
+      "entity_type": "aliquot", 
+      "case_id": "3d676bba-154b-4d22-ab59-d4d4da051b94", 
+      "entity_id": "9fffdb96-3b91-44a7-8f4c-0b153a0227e7"
+    }
+  ], 
+  "file_name": "40b42a7f-ae0b-4c30-8873-d12dd8287ad1.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "97cd15e4-22cb-4f77-80ca-9ad18c9170a1", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "f8ef9dc6375573fc05fee47b70278d89f79a4cd7", 
+    "updated_datetime": "2023-07-14T12:55:00.600535-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "40b42a7f-ae0b-4c30-8873-d12dd8287ad1", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "2e4cf8d0-cf22-468f-811c-8e5f25f67e93", 
+    "created_datetime": "2022-02-15T16:49:50.925018-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 13191220, 
+  "md5sum": "dbbb16e4e7c02428687e527f11939b77", 
+  "file_id": "3a9f2fdb-a77d-461a-88d1-de36ac354585", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "associated_entities": [
+    {
+      "entity_submitter_id": "TCGA-E9-A1RF-11A-32D-A161-05", 
+      "entity_type": "aliquot", 
+      "case_id": "c694615c-b1c6-499c-8058-995633ebf948", 
+      "entity_id": "26e117c8-22ab-4020-87a1-dcb011c1ace1"
+    }
+  ], 
+  "file_name": "4fc9124d-f662-48f6-a73e-627260912c33.methylation_array.sesame.level3betas.txt", 
+  "submitter_id": "34adec16-d32b-4940-9ece-93119b87224f", 
+  "data_category": "DNA Methylation", 
+  "analysis": {
+    "workflow_version": "9e258094ac9d4febe3721ceba25c1b8dbd1a27f8", 
+    "updated_datetime": "2023-07-14T13:07:43.404828-05:00", 
+    "workflow_link": "quay.io/ncigdc", 
+    "submitter_id": "4fc9124d-f662-48f6-a73e-627260912c33", 
+    "state": "released", 
+    "workflow_type": "SeSAMe Methylation Beta Estimation", 
+    "analysis_id": "6923a7e6-0d6b-4aff-a523-9716aec196fd", 
+    "created_datetime": "2022-02-15T16:34:18.824724-06:00"
+  }, 
+  "platform": "Illumina Human Methylation 450", 
+  "file_size": 12806617, 
+  "md5sum": "c8493dc9027f21f903703b03e2ff1453", 
+  "file_id": "e122c085-31ce-4e11-83f0-a380e9c4e2d0", 
+  "data_type": "Methylation Beta Value", 
+  "state": "released", 
+  "experimental_strategy": "Methylation Array"
+}]

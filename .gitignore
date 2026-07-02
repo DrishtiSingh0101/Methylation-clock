@@ -23,6 +23,21 @@ Thumbs.db
 
 data/TCGA_normal_beta_files/
 data/TCGA_tumor_beta_files/
+data/results/tables/BRCA_normal_beta_matrix.csv
+data/results/plots/BRCA_normal_beta_matrix.csv
+data/results/tables/Top_variable_CpGs.csv
+data/TCGA_tumor_beta_files/gdc_download/c675f4fa-337d-4107-bf3b-9d5080c78a7b/d36a567f-2140-47b4-8b78-7e870d24fa1f.methylation_array.sesame.level3betas.txt.partial
+data/Tumor_metadata/clinical.cart.2026-06-24/clinical.tsv
+data/Tumor_metadata/clinical.cart.2026-06-24/exposure.tsv
+data/Tumor_metadata/clinical.cart.2026-06-24/family_history.tsv
+data/Tumor_metadata/clinical.cart.2026-06-24/follow_up.tsv
+data/Tumor_metadata/clinical.cart.2026-06-24/pathology_detail.tsv
+data/Normal_metadata/clinical.cart.2026-06-07/clinical.tsv
+data/Normal_metadata/clinical.cart.2026-06-07/exposure.tsv
+data/Normal_metadata/clinical.cart.2026-06-07/family_history.tsv
+data/Normal_metadata/clinical.cart.2026-06-07/follow_up.tsv
+data/Normal_metadata/clinical.cart.2026-06-07/pathology_detail.tsv
+
 data/*.tsv
 data/*.csv
 data/*.json
