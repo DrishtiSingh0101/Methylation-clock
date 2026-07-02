@@ -20,21 +20,21 @@ env/
 Thumbs.db
 
 # Large genomic datasets
-data/
-TCGA_normal_beta_files/gdc_download_20260606_164603.003427/**/*.txt
-TCGA_tumor_beta_files/gdc_download/**/*.txt
-*.tsv
-*.csv
-*.json
-*.zip
-*.gz
+
+data/TCGA_normal_beta_files/
+data/TCGA_tumor_beta_files/
+data/*.tsv
+data/*.csv
+data/*.json
+data/*.zip
+data/*.gz
 
 # Model files
 *.joblib
 *.pkl
 
 # Temporary outputs
-results/temp/
+data/results/temp/
 
 # Logs
 *.log
